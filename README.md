@@ -4,11 +4,25 @@ A spiritual journey to face, to heal, to fight
 Who knows what hides behind the trees, the mountains, and the hills of the way?
 Perhaps, deliverance
 
-<img width="1920" height="1080" alt="red" src="https://github.com/user-attachments/assets/4442d2c2-47fd-4f8f-a96e-1f49ad85f535" />
-<img width="1920" height="1080" alt="warm" src="https://github.com/user-attachments/assets/9fdcba98-d45c-4fec-b112-6aee42f72dd7" />
-<img width="1920" height="1080" alt="controst" src="https://github.com/user-attachments/assets/e7c2ab32-cf97-47a9-8f88-14c4cddf6b80" />
-<img width="1920" height="1080" alt="godray" src="https://github.com/user-attachments/assets/6916cd83-df4b-4db3-9984-d0cac5f8100c" />
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
+<div style="flex: 1; min-width: 300px; max-width: 400px;">
+<img width="100%" height="auto" alt="red" src="https://github.com/user-attachments/assets/4442d2c2-47fd-4f8f-a96e-1f49ad85f535" />
+</div>
+
+<div style="flex: 1; min-width: 300px; max-width: 400px;">
+<img width="100%" height="auto" alt="warm" src="https://github.com/user-attachments/assets/9fdcba98-d45c-4fec-b112-6aee42f72dd7" />
+</div>
+
+<div style="flex: 1; min-width: 300px; max-width: 400px;">
+<img width="100%" height="auto" alt="controst" src="https://github.com/user-attachments/assets/e7c2ab32-cf97-47a9-8f88-14c4cddf6b80" />
+</div>
+
+<div style="flex: 1; min-width: 300px; max-width: 400px;">
+<img width="100%" height="auto" alt="godray" src="https://github.com/user-attachments/assets/6916cd83-df4b-4db3-9984-d0cac5f8100c" />
+</div>
+
+</div>
 
 
 Embark on your journey grounded in realistic mechanics. Your breath fuels your power, your imagination charts the path, and self-acceptance is the key to progression.
